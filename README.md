@@ -1,4 +1,10 @@
-# codesync
+# CodeSync
+
+CodeSync is aiming to make code sharing easier.
+Usually this will be used in teaching.
+
+If you need the IDE side, click the link below.
+VSCode: https://github.com/Joel-Bradley/CodeSync-VSCode
 
 ## Project setup
 ```
@@ -20,6 +26,4 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # CodeSync-Frontend
