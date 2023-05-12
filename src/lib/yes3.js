@@ -14,7 +14,7 @@
   import axios from 'axios';
 
 const CONFIG = {
-  INTERFACE_URL: 'https://puluter.cn/server.php',
+  INTERFACE_URL: 'https://*/server.php',
 };
 
 const API_OBJ = {
