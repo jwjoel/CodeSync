@@ -9,8 +9,8 @@
 		</div>
 
 		<form id="signup-form">
-      <input type="roomNumber" name="id" id="roomNumber" placeholder="房间号码" />
-      <select type="langType" name="ty" id="langType" placeholder="语言高亮类型" >
+      <input type="roomNumber" name="id" id="roomNumber" placeholder="Room Number" />
+      <select type="langType" name="ty" id="langType" placeholder="Type" >
         <option value ="java">Java</option>
         <option value ="c++">C++</option>
         <option value="python">Python</option>
